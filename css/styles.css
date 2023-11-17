@@ -848,7 +848,9 @@ button {
 
 /* ================== TABLET ================== */
 @media screen and (min-width: 768px) {
-
+	.container {
+		width: 768px;
+	}
 
 	/* ++++++++++++HEADER 768px+++++++++++++++++ */
 	.mobile-header {
