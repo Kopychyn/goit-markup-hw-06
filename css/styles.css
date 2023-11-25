@@ -128,6 +128,7 @@ button {
 	height: 100%;
 	z-index: 999999999;
 	background-color: #FFFFFF;
+	align-items: space-between;
 	/* is-open */
 	opacity: 0;
 	visibility: hidden;
